@@ -1,5 +1,5 @@
 ---
-title: Comments Support
+title: Changed Comments Support
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
